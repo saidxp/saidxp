@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Said Oubaaisse 👋
 
-<!--
-**saidxp/saidxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** looking for a junior developer position where I can learn, build, and grow with a great team.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java • JavaScript • Go • Rust • C
+
+**Frontend:** HTML • CSS • Next.js
+
+**Backend:** Spring Boot
+
+**Tools & DevOps:** Docker • Nginx • Git • GitHub
+
+## 🎯 Goals
+- Grow my skills through open source contributions
+- Build real-world full-stack projects
+- Connect with developers and recruiters
+
+## 📫 Connect with me
+- LinkedIn: [Said Oubaaisse](https://www.linkedin.com/in/said-oubaaisse-943617331/)
+- GitHub: [@saidxp](https://github.com/saidxp)
