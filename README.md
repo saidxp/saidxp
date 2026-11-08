@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-🚀 **Full-Stack Developer** passionate about building scalable backends, clean frontend interfaces, and reliable database architectures. Currently seeking a **Junior Developer position** where I can contribute, continuously learn, and build impactful applications with a great team.
+🚀 **Full-Stack Developer** passionate about building scalable backends, clean frontend interfaces, and reliable database architectures. Currently seeking a **Mid Developer position** where I can contribute, continuously learn, and build impactful applications with a great team.
 
 ---
 
